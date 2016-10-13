@@ -1,4 +1,5 @@
 # rec_radiko2.sh
+radikoフリー用です。<br>
 必要なもの↓
   ```
   $ sudo pacman -S swftools rtmpdump libxml2 wget ffmpeg lame
