@@ -1,5 +1,5 @@
 # rec_radiko2.sh
-必要なもの↓
+必要なもの↓</br>
 $ sudo pacman -S swftools rtmpdump libxml2 wget ffmpeg lame
 
 ご本家rec_radiko.shのように時間指定してcrontabに登録したかったのです
